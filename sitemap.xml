@@ -60,7 +60,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/tags/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2023-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/categories/Hexo-Theme/</loc>
     <lastmod>2023-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
